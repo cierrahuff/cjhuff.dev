@@ -1,0 +1,11 @@
+p{
+    color:darkslateblue;
+    text-align:center;
+    font-weight: bold;
+}
+
+a {
+    align-content: center;
+    text-decoration: none;
+    cursor: pointer;
+}
